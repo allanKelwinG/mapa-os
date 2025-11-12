@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "cliente": "Padaria São João",
+    "tipo": "Instalação",
+    "tecnico": "Carlos",
+    "endereco": "Rua Sangiovese, 311 - Bragança Paulista, SP"
+  },
+  {
+    "id": 2,
+    "cliente": "Mercado Central",
+    "tipo": "Manutenção",
+    "tecnico": "João",
+    "endereco": "Avenida dos Imigrantes, 1500 - Bragança Paulista, SP"
+  },
+  {
+    "id": 3,
+    "cliente": "Escola Modelo",
+    "tipo": "Visita Técnica",
+    "tecnico": "Ana",
+    "endereco": "Rua Coronel Teófilo Leme, 800 - Bragança Paulista, SP"
+  }
+]
